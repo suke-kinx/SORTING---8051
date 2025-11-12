@@ -59,11 +59,13 @@ END
 Before execution: D:0x40H:
 <BR>
 <BR>
-<BR>
+![WhatsApp Image 2025-10-30 at 23 00 39_fee48090](https://github.com/user-attachments/assets/8b5583ae-2c70-4c1f-b04e-1cae4b80b37f)
+
 After execution: D:0x40H:
 <BR>
 <BR>
-<BR>
+![WhatsApp Image 2025-10-30 at 23 00 00_fd99ea8e](https://github.com/user-attachments/assets/240aef68-6c6e-436d-9211-8ef42c43b02c)
+
 
 
 **(ii)	Ascending order**
@@ -121,12 +123,14 @@ D:0x40H:
 <BR>
 <BR>
 <BR>
-<BR>
+![WhatsApp Image 2025-10-30 at 23 25 19_2b2bfe04](https://github.com/user-attachments/assets/05378921-33dd-4605-96f5-230938a969d4)
+
 After execution:
 D:0x40H:
 <BR>
 <BR>
-<BR>
+![WhatsApp Image 2025-10-30 at 23 23 50_03596700](https://github.com/user-attachments/assets/b5dcbef4-1db8-47a3-aed2-b2b89467c4e6)
+
 **Result:**
 
 Thus the sorting of given data was done using 8051 keil and shown the output.
